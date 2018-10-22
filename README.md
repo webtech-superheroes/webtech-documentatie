@@ -41,3 +41,13 @@ Exemplu response
 * Documentația va fi inclusă în repository în fișierul README.md folosind markdown
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+![Step 1](https://raw.githubusercontent.com/eduardbudacu/webtech-documentatie/master/docs/1.jpg)
+
+![Step 2](https://raw.githubusercontent.com/eduardbudacu/webtech-documentatie/master/docs/2.jpg)
+
+![Step 3](https://raw.githubusercontent.com/eduardbudacu/webtech-documentatie/master/docs/3.jpg)
+
+![Step 4](https://raw.githubusercontent.com/eduardbudacu/webtech-documentatie/master/docs/4.jpg)
+
+![Step 5](https://raw.githubusercontent.com/eduardbudacu/webtech-documentatie/master/docs/5.jpg)
+
