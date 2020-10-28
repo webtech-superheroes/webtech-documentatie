@@ -1,6 +1,6 @@
 # Indicații documentare proiect
 
-Scopul documentației este să vă ajute să vă aliniați ca echipa asupa ce veți livra la finalul proiectului.  
+Scopul documentației este să vă ajute să vă aliniați ca echipa asupa ce veți livra la finalul proiectului. Începeți prin a citi specificațiile și ghidul general privind constrangerile tehnologice.
 
 ## Introducere (250 - 350 cuvinte)
 
