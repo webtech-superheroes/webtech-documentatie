@@ -1,6 +1,5 @@
 # Project documentation guidelines
-
-Scopul documentației este să vă ajute să vă aliniați ca echipa asupa ce veți livra la finalul proiectului.  
+ 
 The purpose of this documentation is to get aligned as a team on your deliverable at the and of the project.
 
 ## Introduction (250 - 350 words)
