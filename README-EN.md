@@ -42,7 +42,7 @@ Sample responses
 * The documentation will be included in the repository in the README.md file using markdown
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-## Exemplu
+## You can use this canvas as a guide
 
 ![Step 1](https://raw.githubusercontent.com/eduardbudacu/webtech-documentatie/master/docs/1.jpg)
 
