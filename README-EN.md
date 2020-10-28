@@ -1,6 +1,6 @@
 # Project documentation guidelines
  
-The purpose of this documentation is to get aligned as a team on your deliverable at the and of the project.
+The purpose of this documentation is to get aligned as a team on your deliverable at the and of the project. Start by reading the specs and general tech guidelines for the project you were assigned.
 
 ## Introduction (250 - 350 words)
 
